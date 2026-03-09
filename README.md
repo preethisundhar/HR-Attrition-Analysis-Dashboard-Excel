@@ -60,7 +60,7 @@ Interactive **slicers** allow filtering by:
 ---
 
 ## 📷 Dashboard Preview
-("C:\Users\Admin\Desktop\Project\Excel\dashboard.png")
+![dashboard]("C:\Users\Admin\Desktop\Project\Excel\dashboard.png")
 
 ---
 
